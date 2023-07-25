@@ -7,7 +7,7 @@ Web Developer
 I am a junior web developer who loves to learn coding.
 
 *   🌍  I'm based in Maryland
-*   🖥️  See my portfolio at [My Portfolio](http://www.notion.so/Abby-Brown-yeeun-5fa175aed4fe4a79860907a7bc8590fb)
+*   🖥️  See my portfolio at [My Portfolio](https://www.abbyyenabrown.com/)
 *   ✉️  You can contact me at [yeeun.um0909@gmail.com](mailto:yeeun.um0909@gmail.com)
 *   🧠  I'm learning Node JS
 *   🤝  I'm open to collaborating on Projects### Skills 
